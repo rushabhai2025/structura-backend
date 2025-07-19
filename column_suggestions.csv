@@ -1,0 +1,83 @@
+Column Name,All Values Found,Value Count
+adjustment_time,less than 5 minutes,1
+air_consumption,50 to 100 cfm,1
+autoloader,Yes,1
+automatic_sheet_loading,Yes,1
+automation_options,"Automatic sheet loader, universal sheet size frames | automatic sheet loader & universal sheet size frames",2
+bottom_frame_adjustment,MS Welded Fixed Frames | Steel Welded Fix,2
+bottom_heater_wattage,350 W each,1
+bottom_table_movement,Pneumatic Driven,1
+ce_compliance,Yes,1
+clamping_edge_size,"25 mm (left & right), 50 mm (front & back)",1
+client_name,Elias Pinto | Iqbal Anand | Mr Sergei | Plastics Machinery Group,4
+company_name,ALP Group | Motherson | SAPT RU,3
+contact_email,rushabh@machinecraft.org,1
+contact_mobile,+91 9833112903,1
+contact_name,Rushabh Doshi,1
+contact_partner,Rushabh Doshi,1
+contact_person,Rushabh Doshi,1
+contact_phone,+91 9833112903,1
+contact_position,Sales Director,1
+cooling_system_type,2 x centrifugal fans,1
+date,03/10/2023 | 06/12/2022 | 07/09/2021 | 11/11/2022 | 16/03/2022 | 20/11/2022 | 20/12/2022 | 31/10/2022,8
+email,contact@machinecraft.org | rushabh@machinecraft.org,2
+energy_efficiency,"Servo-motor driven movements, quartz or flash type heaters | servo-motor driven movements",2
+floor_plan,8 x 4.5 x 2.8 m,1
+forming_area,Not specified,1
+heater_control,Individual (in pairs) & Zone Control | Individual (in pairs) or Zone Control using setting available on HMI | special heater controller with fast response time,3
+heater_control_system,Heatronik Heater control | SSR controlled by PLC | Solid State Relay | Solid State Relay (SSR) | Solid State Relay (SSR) with PID logic | Special Hetronik controller with voltage regulator & ammeter,6
+heater_elements_per_zone,2,1
+heater_grid_layout,12 x 6 = 72 heaters in Top & Bottom each | 4 Rows x 10 Columns in Top & Bottom Ovens | 4 x 8 = 32 heater elements | 5 Rows x 12 Columns in Top & Bottom Ovens (approx.) | 6 x 6 = 36 heaters in Top & Bottom each | 9 x 13,6
+heater_load,32 KW,1
+heater_make,Elstein Germany,1
+heater_movement_make,Festo Germany,1
+heater_movement_type,Electric Servo Motor Driven | Pneumatic Cylinder driven | Pneumatic Driven using High Temperature Cylinders | Pneumatic Movement | Servo Motor Driven | Special High Temperature Pneumatic Cylinders,6
+heater_protection,Sag Sensor & Schott glass | Sag Sensor in the bottom to protect the bottom heater oven,2
+heater_size,245 x 63 mm | 265 x 95 mm,2
+heater_type,"IR Ceramic | IR Quartz | IR Quartz Type | IR Quartz – Flash Type Rapidium | Infrared IR Ceramic | Infrared IR Quartz | Infrared heating elements, sandwich heater ovens | quartz or flash",8
+heater_wattage,500 W / 300 W | 500 W each | 500 W top,3
+heater_wattage_bottom,350 W each | 700 W each,2
+heater_wattage_top,500 W each,1
+loading_unloading_time,30 to 60 seconds,1
+machine_model,UNOi-810,1
+machine_series,PF1,1
+max_forming_area,1000 x 1000 mm | 1000 x 1500 mm | 1200 x 1200 mm | 1200 x 2400 mm | 1500 x 1000 mm | 1500 x 600 mm | 2000 x 1000 mm | 2500 x 1250 mm | 800 x 1000 mm,9
+max_plug_assist_height,500 mm,1
+max_stroke_z,300 mm | 400 mm,2
+max_tool_depth,300 mm | 500 mm | 650 mm | 750 mm,4
+max_tool_height,500 mm,1
+min_forming_area,1000 x 500 mm | 550 x 550 mm | 700 x 1400 mm,3
+mobile,+91 9833112903,1
+number_of_heater_elements,80 Top & 80 Bottom,1
+number_of_heater_elements_per_zone,2,1
+part_unloading,Automatic,1
+plug_assist,Not specified,1
+power_consumption,Not specified,1
+preblow_bubble_height_adjustment,1 x Photocell manually Adjustable & Timer Controlled | 1 x Photocell manually height adjustable & Timer Controlled | 1x Photocell manually height adjustable & Timer Controlled,3
+price,Not specified,1
+quick_tool_loading,"Yes, pneumatic system",1
+quote_date,07/12/2023 | 16/09/2023,2
+quote_number,20220903 | 2022103101 | 2022120601 | 2022122001 | 20230107 | 2023062 | 2023199 | 22070203 | MT2021090701 | MT2023291,10
+sag_control_system,1 x Photocell at centre below the sheet | 1 x Photocell below the sheet | 1 x Photocell in centre bottom | 1 x Photocell – center | 1 x Photocells below the sheet | 1x Photocells below the sheet,6
+sheet_clamping,Electric using 2 x Servo Motors | Pneumatic Driven | Pneumatic using Rack & Pinion Mechanism | Using 2 x Pneumatic Cylinders,4
+sheet_loading,Automatic sheet loader system | Manual | Manual Sheet Loading by Operator | Manual by 1 x operator | Manually by Operator | Using Roll Feeder,6
+sheet_size_setting,Using MS Welded Fixed Frames,1
+sheet_size_setting_system,Universal sheet size setting system,1
+sheet_temperature_sensing,1 x Pyrometer | 1 x Pyrometer placed in centre of the heating oven,2
+tool_clamp_time_bolts,60 minutes,1
+tool_clamp_time_pneumatic,less than 5 minutes,1
+tool_clamping,Tool Clamping can be done using bolting system,1
+tool_clamping_options,"['Bolts', 'Pneumatic System']",1
+tool_loading_method,Forklift,1
+top_frame_adjustment,Adjustable using Cross members,1
+top_heater_wattage,500 W each,1
+top_table_movement,Pneumatic Driven,1
+total_connected_load,65 KW | 74 KW approx.,2
+total_heater_load,16 KW | 43.2 KW | 51 KW approx. | 58.5 KW | 61 KW approx. | 68 KW,6
+total_heating_load,51 KW,1
+total_other_load,15 KW,1
+universal_sheet_size_setting,"Yes, via HMI",1
+vacuum_pump,Not specified,1
+vacuum_pump_capacity,100 m3/hour | 100 m3/hr | 140 m3/hr | 600 lpm,4
+vacuum_pump_rate,40 m3/hr,1
+warranty,Not specified,1
